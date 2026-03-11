@@ -54,9 +54,6 @@
 
 * The Name of the Wind
 * The Wise Man's Fear
-
-## Temerant Standalones - Patrick Rothfuss
-
 * The Slow Regard of Silent Things
 
 ## Percy Jackson & The Olympians - Rick Riordan
