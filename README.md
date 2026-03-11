@@ -5,13 +5,18 @@
 - The Waste Lands by Stephen King
 
 # TBR
-- Last Call: The Rise and Fall of Prohibition by Daniel Okrent
+
+### Fiction
 - Royal Assassin by Robin Hobb
 - Sister Svangerd and the Not Quite Dead by KJ Parker
 - Saevus Corax Deals with the Dead by KJ Parker
 - My Dead Body by Charlie Huston
 - I Travel By Night by Robert R. McCammon
 - Sandman Slim by Richard Kadrey
+
+### Non-Fiction
+- Last Call: The Rise and Fall of Prohibition by Daniel Okrent
+- All the President's Men by Bob Woodward    
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
