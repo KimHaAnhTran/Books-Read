@@ -72,30 +72,18 @@
 * The Lies of Locke Lamora
 * Red Seas Under Red Skies
 
-## Cosmere Standalones - Brandon Sanderson
+## Brandon Sanderson
 
 * Warbreaker
 * The Emperor's Soul
-
-## Secret Projects - Brandon Sanderson
-
 * The Frugal Wizard's Guide to Surviving Medieval England
-
-## Mistborn Era 1 - Brandon Sanderson
-
 * The Well of Ascension
 
-## Alex Verus - Benedict Jacka
+## Urban Fantasy
 
-* Fated
-
-## Rivers of London - Ben Aaronovitch
-
-* Rivers of London <20/9>
-
-## Dresden Files - Jim Butcher
-
-* Cold Days
+* Fated - Benedict Jacka
+* Rivers of London - Ben Aaronovitch <20/9>
+* Cold Days - Jim Butcher
 
 ## The Shadow Campaigns - Django Wexler
 
