@@ -10,6 +10,7 @@
 - Saevus Corax Deals with the Dead by KJ Parker
 - My Dead Body by Charlie Huston
 - I Travel By Night by Robert R. McCammon
+- Sandman Slim by Richard Kadrey
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
