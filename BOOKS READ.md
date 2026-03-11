@@ -2,7 +2,7 @@
 
 ## The Dark Tower - Stephen King
 
-* The Little Sisters of Eluria <11/2>
+* The Little Sisters of Eluria <11/02>
 * The Gunslinger <27/01>
 * The Drawing of the Three <06/02>
 
@@ -12,6 +12,10 @@
 * Pulling The Wings Off Angels <22/02>
 * Burning Books for Pleasure and Profit <02/03>
 * Set in Stone <07/03>
+
+## Joe Pitt Casebooks - Charlie Huston
+
+* Every Last Drop <10/03>
 
 ---
 
