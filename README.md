@@ -6,6 +6,7 @@
 
 # TBR
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
+- Royal Assassin by Robin Hobb
 - Sister Svangerd and the Not Quite Dead by KJ Parker
 - Saevus Corax Deals with the Dead by KJ Parker
 - My Dead Body by Charlie Huston
