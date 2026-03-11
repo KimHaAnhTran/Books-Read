@@ -1,4 +1,4 @@
-# Currently Reading:
+# Currently Reading
 - Lonesome Dove by Larry McMurtry
 - Blood Meridian by Cormac McCarthy
 - 11/22/63 by Stephen King
