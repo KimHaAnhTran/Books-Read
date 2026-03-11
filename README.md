@@ -3,6 +3,7 @@
 - Sister Svangerd and the Not Quite Dead by KJ Parker
 - Saevus Corax Deals with the Dead by KJ Parker
 - My Dead Body by Charlie Huston
+- I Travel By Night by Robert R. McCammon
 
 # To Finish
 - Lonesome Dove by Larry McMurtry
