@@ -11,7 +11,7 @@
 - My Dead Body by Charlie Huston
 - I Travel By Night by Robert R. McCammon
 
-# Back Pile (Fate Unknown):
+# Back Pile
 Books I've read halfway through and unsure whether to abandon
 - Dead Things by Stephen Blackmoore
 - The Country Under Heaven by Frederic S. Durbin
