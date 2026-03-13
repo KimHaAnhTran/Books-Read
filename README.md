@@ -3,6 +3,7 @@
 - Blood Meridian by Cormac McCarthy
 - 11/22/63 by Stephen King
 - The Waste Lands by Stephen King
+- Guys and Dolls by Damon Runyon
 
 # TBR
 
