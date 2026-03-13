@@ -17,7 +17,7 @@
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
-- All the President's Men by Bob Woodward    
+- Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
