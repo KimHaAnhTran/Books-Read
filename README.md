@@ -4,6 +4,7 @@
 - Blood Meridian by Cormac McCarthy
 - 11/22/63 by Stephen King
 - The Waste Lands by Stephen King
+- Guys and Dolls by Damon Runyon
 
 # TBR
 
@@ -16,9 +17,13 @@
 - Sandman Slim by Richard Kadrey
 - Fevre Dream by George R.R. Martin
 - The Killer Angels: A Novel of the Civil War by Michael Shaara
+- Louis L'Amour
+- The Big Sleep by Raymond Chandler
+- The Long Goodbye by Raymond Chandler
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
+- Codes of the Underworld bt Diego Gambetta
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
