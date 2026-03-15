@@ -1,4 +1,4 @@
-8# Currently Reading
+# Currently Reading
 - Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 - Lonesome Dove by Larry McMurtry
 - Blood Meridian by Cormac McCarthy
