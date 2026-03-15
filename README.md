@@ -1,4 +1,4 @@
-# Currently Reading
+8# Currently Reading
 - Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 - Lonesome Dove by Larry McMurtry
 - Blood Meridian by Cormac McCarthy
@@ -23,7 +23,7 @@
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
-- Codes of the Underworld bt Diego Gambetta
+- Codes of the Underworld by Diego Gambetta
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
