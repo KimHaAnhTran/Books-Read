@@ -1,4 +1,5 @@
 # Currently Reading
+- Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 - Lonesome Dove by Larry McMurtry
 - Blood Meridian by Cormac McCarthy
 - 11/22/63 by Stephen King
@@ -16,7 +17,6 @@
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
-- Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 
 # Back Pile
 Books I've read halfway through and unsure whether to abandon
