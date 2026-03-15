@@ -14,6 +14,8 @@
 - My Dead Body by Charlie Huston
 - I Travel By Night by Robert R. McCammon
 - Sandman Slim by Richard Kadrey
+- Fevre Dream by George R.R. Martin
+- The Killer Angels: A Novel of the Civil War by Michael Shaara
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
