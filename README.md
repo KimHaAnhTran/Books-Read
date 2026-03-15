@@ -20,6 +20,7 @@
 - Louis L'Amour
 - The Big Sleep by Raymond Chandler
 - The Long Goodbye by Raymond Chandler
+- The Book of the New Sun by Gene Wolfe
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
