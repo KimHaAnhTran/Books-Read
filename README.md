@@ -1,14 +1,12 @@
 # Currently Reading
 - Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 - Lonesome Dove by Larry McMurtry
-- Blood Meridian by Cormac McCarthy
 - 11/22/63 by Stephen King
-- The Waste Lands by Stephen King
-- Guys and Dolls by Damon Runyon
 
 # TBR
 
 ### Fiction
+- The Brothers Karamazov by Fyodor Dostoevsky
 - Royal Assassin by Robin Hobb
 - Sister Svangerd and the Not Quite Dead by KJ Parker
 - Saevus Corax Deals with the Dead by KJ Parker
@@ -22,6 +20,7 @@
 - The Long Goodbye by Raymond Chandler
 - The Book of the New Sun by Gene Wolfe
 - Special Topics in Calamity Physics by Marisha Pessl
+- Guys and Dolls by Damon Runyon
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
@@ -29,6 +28,8 @@
 - Donnie Brasco: My Undercover Life in the Mafia by Joseph D. Pistone
 
 # Back Pile
-Books I've read halfway through and unsure whether to abandon
+Books I've read halfway through and put on hiatus
 - Dead Things by Stephen Blackmoore
 - The Country Under Heaven by Frederic S. Durbin
+- Blood Meridian by Cormac McCarthy
+- The Waste Lands by Stephen King
