@@ -21,6 +21,7 @@
 - The Book of the New Sun by Gene Wolfe
 - Special Topics in Calamity Physics by Marisha Pessl
 - Guys and Dolls by Damon Runyon
+- Between Two Fires by Christopher Buehlman
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
