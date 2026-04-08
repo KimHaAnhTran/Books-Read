@@ -25,6 +25,7 @@
 - Between Two Fires by Christopher Buehlman
 - [Centroeuropa by Vicente Mora](https://countercraft.substack.com/p/i-loved-this-novel-about-digging?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ea190c-f552-40c0-b3c3-6e94eb504443_610x768.png&open=false)
 - Peace by Gene Wolfe
+- Deathless by Catherynne M. Valente
 
 ### Non-Fiction
 - Last Call: The Rise and Fall of Prohibition by Daniel Okrent
