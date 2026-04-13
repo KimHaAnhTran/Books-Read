@@ -17,6 +17,15 @@
 
 * Every Last Drop <10/03>
 
+### The King in Yellow Anthology - Robert W. Chambers
+
+* The Repairer of Reputations <11/4>
+
+### Short stories
+
+* Bullet in the Brain - Tobias Wolff <10/4>
+* An Inhabitant of Carcosa - Ambrose Bierce <11/4>
+
 ---
 
 # 2025 [13]
