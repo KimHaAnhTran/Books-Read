@@ -2,6 +2,7 @@
 - Inventing the Renaissance: The Myth of a Golden Age by Ada Palmer
 - Lonesome Dove by Larry McMurtry
 - 11/22/63 by Stephen King
+- The King in Yellow by Robert W. Chambers
 - One Flew Over the Cuckoo's Nest by Ken Kesey
 
 # TBR
