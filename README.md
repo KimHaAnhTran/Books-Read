@@ -19,7 +19,8 @@
 
 ### The King in Yellow Anthology - Robert W. Chambers
 
-* The Repairer of Reputations <11/4>
+* The Repairer of Reputations <11/04>
+* The Yellow Sign <13/04>
 
 ### Short stories
 
